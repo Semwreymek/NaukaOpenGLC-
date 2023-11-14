@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NaukaOpenGl", "NaukaOpenGl.vcxproj", "{646E9B07-8B48-475C-A1E2-540BB4E473B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{646E9B07-8B48-475C-A1E2-540BB4E473B2}.Debug|x64.ActiveCfg = Debug|x64
+		{646E9B07-8B48-475C-A1E2-540BB4E473B2}.Debug|x64.Build.0 = Debug|x64
+		{646E9B07-8B48-475C-A1E2-540BB4E473B2}.Debug|x86.ActiveCfg = Debug|Win32
+		{646E9B07-8B48-475C-A1E2-540BB4E473B2}.Debug|x86.Build.0 = Debug|Win32
+		{646E9B07-8B48-475C-A1E2-540BB4E473B2}.Release|x64.ActiveCfg = Release|x64
+		{646E9B07-8B48-475C-A1E2-540BB4E473B2}.Release|x64.Build.0 = Release|x64
+		{646E9B07-8B48-475C-A1E2-540BB4E473B2}.Release|x86.ActiveCfg = Release|Win32
+		{646E9B07-8B48-475C-A1E2-540BB4E473B2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB27110C-3BE5-467B-8890-5354F727CCF2}
+	EndGlobalSection
+EndGlobal
