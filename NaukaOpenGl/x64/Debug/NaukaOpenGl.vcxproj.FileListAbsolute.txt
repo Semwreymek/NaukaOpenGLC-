@@ -1,2 +1,3 @@
 C:\Users\Seweryn\Desktop\WlasanyProjektObenGL\NaukaOpenGl\x64\Debug\NaukaOpenGl.exe
 C:\Users\Seweryn\Desktop\NaukaOpenGLC-\NaukaOpenGl\x64\Debug\NaukaOpenGl.exe
+C:\Users\kawkr\OneDrive\Pulpit\NaukaOpenGLC-\NaukaOpenGl\x64\Debug\NaukaOpenGl.exe

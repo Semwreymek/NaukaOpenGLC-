@@ -75,8 +75,8 @@
     <LibraryPath>C:\Users\Seweryn\Desktop\WlasanyProjektObenGL\NaukaOpenGl\Libraries\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>C:\Users\Seweryn\Desktop\WlasanyProjektObenGL\NaukaOpenGl\Libraries\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\Seweryn\Desktop\WlasanyProjektObenGL\NaukaOpenGl\Libraries\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\kawkr\OneDrive\Pulpit\NaukaOpenGLC-\NaukaOpenGl\Libraries\include;C:\Users\Seweryn\Desktop\WlasanyProjektObenGL\NaukaOpenGl\Libraries\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\kawkr\OneDrive\Pulpit\NaukaOpenGLC-\NaukaOpenGl\Libraries\lib;C:\Users\Seweryn\Desktop\WlasanyProjektObenGL\NaukaOpenGl\Libraries\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
@@ -137,7 +137,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\StudiaS3\GrafikaKomputerowa\Projekt\glad.c" />
+    <ClCompile Include="glad.c" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MainLoop.cpp" />
   </ItemGroup>
